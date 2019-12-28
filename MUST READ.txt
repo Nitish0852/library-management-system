@@ -1,5 +1,5 @@
 How to run the Library Management System (LMS) Project
-1. Download the zip file (lms.rar)
+1. Download the zip file (LMS zip/lms.rar)
 
 2. Extract the file and copy lms folder
 
