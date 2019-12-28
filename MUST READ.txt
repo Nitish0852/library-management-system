@@ -7,9 +7,9 @@ How to run the Library Management System (LMS) Project
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with name lms4
+5. Create a database with name lms
 
-6. Import lms.sql file(given inside the zip package in Database file folder)
+6. Import lms.sql file(provided as lms.sql)
 
 7.Run the script http://localhost/lms (frontend)
 
